@@ -1,0 +1,9 @@
+#ifndef COLORMANUAL_H
+#define COLORMANUAL_H
+
+namespace TelCoColorCoder
+{
+    void PrintColorManual();
+}
+
+#endif
